@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:5000";
+const url = "https://easy-store-backend.herokuapp.com";
 
 export function searchProd(callback){
     axios.get(url+"/Productos")
