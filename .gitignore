@@ -10,8 +10,6 @@
 .runtimeconfig.json
 .firebase/
 
-## Firestore Key ##
-easy-store-972f2-8bb48f6d88f6.json
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
